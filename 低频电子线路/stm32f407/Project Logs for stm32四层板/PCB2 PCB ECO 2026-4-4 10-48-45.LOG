@@ -1,0 +1,29 @@
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=E1-2
+Added Pin To Net: NetName=GND Pin=E2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Change Net Color : Old Net Color=Aqua New Net Color=Default
+Change Net Color : Old Net Color=RGB(86, 119, 0) New Net Color=Default
+Change Net Color : Old Net Color=Silver New Net Color=Default
+Added Member To Class: ClassName=U_01-PWR Member=Component C15 0.1uF
+Added Member To Class: ClassName=U_01-PWR Member=Component C16 0.1uF
+Added Member To Class: ClassName=U_01-PWR Member=Component E1 10uF
+Added Member To Class: ClassName=U_01-PWR Member=Component E2 10uF
+Added Member To Class: ClassName=U_01-PWR Member=Component U3 RT9013-33

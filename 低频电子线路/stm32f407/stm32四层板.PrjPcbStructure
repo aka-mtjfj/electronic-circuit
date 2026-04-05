@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_01-PWR|SchDesignator=U_01-PWR|FileName=01-PWR.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=01-PWR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_02-cpu+connect|SchDesignator=U_02-cpu+connect|FileName=02-cpu+connect.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=02-cpu+connect.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_03-key+led+swd|SchDesignator=U_03-key+led+swd|FileName=03-key+led+swd.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=03-key+led+swd.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
